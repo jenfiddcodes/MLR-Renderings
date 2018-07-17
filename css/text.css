@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	text-decoration: none;
+	font-family: "Lucida Bright", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000;	
+	}
+	
+#company { font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+		 font-style:italic;
+		 font-size:18px;
+		 color: #FFF;
+
+}
+
+
+#uppercontent p {
+	text-align: left;				
+}
+
+
+#uppercontent h3 {
+	text-align: left;				
+}
+
+
+.top {vertical-align:text-top;}	
+
+.right {text-align:right;}
+
+#footer table {
+	border-top-style: dotted;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #008b83;
+	border-top-width: 3px;
+}
+.footertext {
+	color: black;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: center;
+}
+#subpagefooter td ul li {
+	list-style-type: none;
+	font-size: 10pt;
+}
+
+#subpagefooter td ul li a:link {
+	color: black;	
+	font-weight: bold;
+}
+#subpagefooter td ul li a:visited {
+	color: black;	
+	font-weight: bold;
+}
+#subpagefooter td ul li a:hover {
+	color: #630;	
+	font-weight: bold;
+}
+
+#homefooter td ul li a:link {
+	color: black;	
+	font-weight: bold;
+}
+#homefooter td ul li a:visited {
+	color: black;	
+	font-weight: bold;
+}
+#homefooter td ul li a:hover {
+	color: #630;	
+	font-weight: bold;
+}
+#homefooter td ul li {
+	list-style-type: none;
+	font-size: 10pt;
+}
+#subpagefooter p a:link {
+	color: white;
+	font-weight: bold;
+}
+#subpagefooter p a:visited {
+	color: black;
+}
+
+#subpagefooter p a:hover{
+	color: #630;
+	font-weight: bold;
+}
+#homefooter p a:link {
+	color: white;
+	font-weight: bold;
+}
+#homefooter p a:visited {
+	color: black;
+}
+
+#homefooter p a:hover{
+	color: #630;
+	font-weight: bold;
+}
+
+/*
+#homefooter a:link img {
+	text-decoration:none;
+	border: none;
+}
+#homefooter a:visited img {
+	text-decoration:none;
+	border: none;
+}
+
+#homefooter a:hover img{
+	text-decoration:none;
+	border: none;
+}
+#subpagefooter a:link img {
+	text-decoration:none;
+	border: none;
+}
+#subpagefooter a:visited img {
+	text-decoration:none;
+	border: none;
+}
+
+#subpagefooter a:hover img{
+	text-decoration:none;
+	border: none;
+}
+
+*/
+
+	
+
+
+	
